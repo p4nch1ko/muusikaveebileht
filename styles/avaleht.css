@@ -1,0 +1,50 @@
+.h1_pages {
+	font-family: "Verdana";
+	font-size: 40px;
+	font-weight: 550;
+	padding: 40px 0;
+}
+
+.pilt {
+	align-items: right;
+	text-align: right;
+	justify-self: end;
+	width: 100%;
+    height: auto;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 2fr 2fr;
+	gap: 10px;
+	grid-auto-rows: minmax(150px, auto);
+}
+
+p {
+	font-family: "Verdana";
+	font-size: 20px;
+}
+
+.text {
+	font-family: "Verdana";
+	font-size: 20px;
+	align-items: left;
+	padding: 60px 90px;
+	text-align: left;
+	line-height: 30px;
+	left: 0;
+}
+
+.h2_pages {
+	font-family: "Verdana";
+	font-size: 30px;
+	font-weight: 250;
+	padding: 40px;
+}
+
+.h3_pages {
+	font-family: "Verdana";
+	font-size: 20px;
+	text-align: center;
+	font-weight: 550;
+}
