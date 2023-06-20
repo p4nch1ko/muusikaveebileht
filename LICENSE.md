@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2023] [Jelizaveta Kruglova, Käti Jalakas, Klaarika Tabbun, Claudia-Nicol Zaitseva]
+Copyright (c) [2023] [Jelizaveta Kruglova, Käti Jalakas, Klaarika Tabbun, Claudia-Nicol Zaitseva, Tallinna Ülikool]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
