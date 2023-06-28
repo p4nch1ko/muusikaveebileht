@@ -15,7 +15,7 @@ Paigaldusjuhiseid ja arenduskeskkonna ülesseadmise juhised:
 ava github "p4nch1ko/muusikaveebileht", kopeeri kõik php ja css failid (pildid ja videod ka), võid kasutada Notepad++ või Visual Studio Code ja kopeerida need failid sinna, aga pildid ja videod panna kausta. Pärast tõsta kõik need failid mingisse servirisse, näiteks meil on "greeny.cs.tlu.ee".
 Andmete muutmiseks ava vastav fail, näiteks harf.php ja muuda vastavat koodi osa, näiteks, kui sa tahad muuta pilti, siis muuda faili nime ja salvesta. Vajalik pilt tuleb kopeerida serveri kausta.
 
-MIT License
-
+MIT License LICENSE.md
+https://github.com/p4nch1ko/muusikaveebileht/blob/main/LICENSE.md
 
 
