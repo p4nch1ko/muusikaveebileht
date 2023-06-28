@@ -12,8 +12,8 @@ Autorid:
 Jelizaveta Kruglova, Käti Jalakas, Klaarika Tabbun, Claudia-Nicol Zaitseva.
 
 Paigaldusjuhiseid ja arenduskeskkonna ülesseadmise juhised: 
-ava github "p4nch1ko/muusikaveebileht", kopeeri kõik php ja css failid (pildid ja videod ka), võid kasutada Notepad++ või Visual Studio Code ja kopeerida need failid sinna, aga pildid ja videod panna kausta. Pärast tõsta kõik need failid mingisse servirisse, näiteks meil on "greeny.cs.tlu.ee".
-Andmete muutmiseks ava vastav fail, näiteks harf.php ja muuda vastavat koodi osa, näiteks, kui sa tahad muuta pilti, siis muuda faili nime ja salvesta. Vajalik pilt tuleb kopeerida serveri kausta.
+Projekti failid tuleb Githubi repositooriumist alla laadida. Seejärel laadida üles koodi failid ja pildikaustad oma serverisse. Pildi ja CSSi (styles) kaust peab jääma samale tasemele mis on PHP failid.
+Veebilehe paigaldamiseks on vaja leida sobiv veebimajutus, mis toetaks eelnevalt mainitud keeli.
 
 MIT License LICENSE.md
 https://github.com/p4nch1ko/muusikaveebileht/blob/main/LICENSE.md
